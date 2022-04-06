@@ -30,11 +30,6 @@ main {
   margin-right: auto;
 }
 
-.header--project {
-  font-size: 0.75rem;
-  font-weight: 500;
-}
-
 .form {
   display: grid;
   grid-template: 40px 40px / 1fr 1fr;
@@ -56,4 +51,8 @@ main {
   color: white;
   border: none;
   cursor: pointer;
+}
+
+.meme--image {
+  max-width: 100%;
 }
