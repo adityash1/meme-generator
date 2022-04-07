@@ -1,3 +1,3 @@
 ### Meme Generator
 
-![gif](/docs/gif/firefox_TJxaiSFwsh.gif)
+![gif](/docs/gif/W1XHy4l2ZP.gif)
